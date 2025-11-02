@@ -1,0 +1,9 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "init": "^0.1.2",
+    "tailwindcss": "^4.1.14"
+  }
+}
