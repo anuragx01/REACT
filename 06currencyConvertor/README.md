@@ -1,4 +1,6 @@
-# React + Vite
+# Currency Converter - React + Vite
+
+A currency converter application built with React and Vite. Convert between different currencies using real-time exchange rates.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
