@@ -1,6 +1,6 @@
 function Bhai() {
     return (
-        <h3>functonk call krdia</h3>
+        <h3>hello hello</h3>
     )
 }
 
